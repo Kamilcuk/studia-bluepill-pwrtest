@@ -1,0 +1,7 @@
+[submodule "third_party/kamillibc"]
+	path = third_party/kamillibc
+	url = git@github.com:kamilcuk/kamillibc.git
+[submodule "third_party/STM32Cube_FW"]
+	path = third_party/STM32Cube_FW
+	url = git@github.com:Kamilcuk/STM32Cube_FW.git
+	branch = F1_use
